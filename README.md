@@ -1,3 +1,6 @@
+This is simply a login page and gave the data with the help of authentication and dummy api also in it. if the email and password would not matched in the api data so they would not be login and showing error. if the email and passowrd match to the api data so you easily seem the data in the browser display.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
